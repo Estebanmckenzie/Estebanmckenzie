@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Estebanmckenzie
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning to crete code
+- 🌱 I’m currently learning to create code
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me estebanmckenzie36@gmail.com
 - 😄 Pronouns: ...
